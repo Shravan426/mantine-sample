@@ -6,8 +6,7 @@ import Rectangle11 from "./images/Rectangle 11.png";
 import Rectangle12 from "./images/Rectangle 12.png";
 
 function SecondPage() {
-  const { classes } = useStyles();
-  
+   
   function ImageCard({ imageSrc, title, description }) {
     return (
       <Grid.Col xs={12} sm={6} md={4} lg={3}>
