@@ -39,7 +39,7 @@ function HomePage() {
           Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<Text> Ut enim ad minim veniam, <span class={classes.yello}>quis nostrud</span> exercitation</Text> ullamco laboris nisi ut aliquip.
         </Text>
         <Button
-          color="yellow"
+          color="red"
           radius="md"
           size="lg"
           
